@@ -10,6 +10,4 @@ If you want to practice too, then follow the below steps:-
 3. I have uploaded images(png & svg both) that you are going to use in the project.
 4. If you were successful in achieving the goal, then its good otherwise look at my codes and solve your doubts and practice again.
 
-NOTE: Do not use primary CSS concepts as this project is solely based on practising Bootstrap. 
-      Please do not change my code and if you have any efficient changes then push your file in the repository rather than performing changes in this code.
-   
+NOTE: Do not use primary CSS concepts as this project is solely based on practising Bootstrap.   
